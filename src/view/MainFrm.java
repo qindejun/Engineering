@@ -8,7 +8,7 @@ import javax.swing.border.EmptyBorder;
 
 import com.mysql.cj.xdevapi.Table;
 
-import java.awt.Font;
+import java.awt.Font; 
 import javax.swing.JMenuBar;
 import javax.swing.JMenu;
 import java.awt.SystemColor;
