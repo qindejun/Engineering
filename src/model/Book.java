@@ -18,7 +18,7 @@ public class Book {
 	private String author;
 	private String sex;
 	private Float price;
-    private Integer bookTypeID;
+    private Integer bookTypeID; 
     private String bookTypeName;
     private String bookDesc;
 	public int getId() {
