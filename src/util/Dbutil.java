@@ -10,7 +10,7 @@ public class Dbutil {
     private String password = "123456";//密码
     private String jdbcName = "com.mysql.cj.jdbc.Driver";
 
-    /*
+    /* 
         获取数据库连接
      */
     public Connection getCon() throws Exception{
