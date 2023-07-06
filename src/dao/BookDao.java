@@ -13,7 +13,7 @@ public class BookDao {
 
 	/*
 	 * 图书添加
-	 */
+	 */ 
 	public int Add(Connection con,Book book)throws Exception{
 		String sql = "insert into book values(null,?,?,?,?,?,?)";
 		String sql2 = "ALTER TABLE book AUTO_INCREMENT = 0;";
