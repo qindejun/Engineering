@@ -17,7 +17,6 @@ public class BookType {
 	}
 	
 	
-	
 	public BookType(int id, String bookTypeName, String bookTypeDesc) {
 		super();
 		this.id = id;
