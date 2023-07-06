@@ -5,7 +5,7 @@ package util;
 public class StringUtil {
 
     /*
-        判断是否为空
+        判断是否为空 
      */
     public static boolean isEmpty(String str){
         if(str==null || "".equals(str.trim())){
