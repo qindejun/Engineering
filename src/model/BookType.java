@@ -10,7 +10,7 @@ public class BookType {
 	public BookType() {
 		
 	}
-	
+	 
 	public BookType(String bookTypeName,String bookTypeDesc) {
 		this.bookTypeName = bookTypeName;
 		this.bookTypeDesc = bookTypeDesc;
